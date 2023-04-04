@@ -1,0 +1,13 @@
+spring:
+  main:
+    web-application-type: NONE
+    
+program:
+  id: Q
+distribution:
+  list:
+    number: 11
+    type: G
+destination:
+  type:
+    message: RPT560
